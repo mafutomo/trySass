@@ -1,0 +1,28 @@
+$primary-color: red;
+
+
+nav {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color: $primary-color;
+    font-style: italic;
+  }
+
+  li {
+    display: inline-block;
+    color: $primary-color;
+    font-style: italic;
+  }
+
+  a {
+    display: block;
+    padding: 6px 12px;
+    text-decoration: none;
+  }
+}
+
+html{
+  background-color: blue;
+}

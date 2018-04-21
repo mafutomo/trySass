@@ -1,0 +1,19 @@
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  color: red;
+  font-style: italic; }
+nav li {
+  display: inline-block;
+  color: red;
+  font-style: italic; }
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none; }
+
+html {
+  background-color: blue; }
+
+/*# sourceMappingURL=output.css.map */
